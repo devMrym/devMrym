@@ -34,3 +34,6 @@
 
 
 ###
+<img src="https://raw.githubusercontent.com/devMrym/devMrym/output/snake.svg" alt="Snake animation" />
+
+###
