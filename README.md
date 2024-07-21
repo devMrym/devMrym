@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm Maryam</h1>
-<h3 align="center">A passionate software developer.</h3>
+<h2 align="center">Hi 👋, I'm Maryam</h2>
+<h3 align="center">A passionate software developer.
+<br>🌱 Learning Journey:
+<br>
+Diving into advanced algorithms and data structures
+Experimenting with new programming languages and paradigms
+</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
