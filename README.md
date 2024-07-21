@@ -2,8 +2,8 @@
 <h3 align="center">A passionate software developer.
 <br>🌱 Learning Journey:
 <br>
-Diving into advanced algorithms and data structures
-Experimenting with new programming languages and paradigms
+* Diving into advanced algorithms and data structures
+* Experimenting with new programming languages and paradigms
 </h3>
 
 <h3 align="left">Connect with me:</h3>
