@@ -23,7 +23,7 @@
 ###
 
 <h4 align="center">I'm Maryam ⚡<br></h4>
-<p align="left">- 🔭  I'm a Programmer passionate about solving problems and building efficient, scalable software solutions. <br>- 📚 I'm currently learning web/application development<br> </p>
+<p align="left">- 🔭  I'm a Programmer passionate about solving problems and building efficient, scalable software solutions. <br>- 📚 I'm currently learning web/application development and game development.<br> </p>
 
 ###
 
